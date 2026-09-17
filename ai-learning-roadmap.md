@@ -20,7 +20,7 @@
 
 ### 第 1 周:补上这几年错过的范式
 
-- [ ] (1h) 建公开学习仓库(README 写明 26 周计划),本周起每周产出都提交进去——这就是未来的作品集
+- [x] (1h) 建公开学习仓库(README 写明 26 周计划),本周起每周产出都提交进去——这就是未来的作品集
 - [ ] (2h) 看 Karpathy《Let's build GPT》前半段,重建 Transformer 手感(已熟可倍速)
 - [ ] (2h) 看 Karpathy《Deep Dive into LLMs like ChatGPT》,搞懂预训练到 SFT 到 RLHF 全流程(已熟可倍速)
 - [ ] (2h) 注册并跑通一家大模型 API,用 curl 或脚本发第一个请求
