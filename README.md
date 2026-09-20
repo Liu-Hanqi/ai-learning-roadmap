@@ -35,3 +35,4 @@
 - `llm-fundamentals-notes.md` — 文本建模基础复习:bigram(统计与 NN 两条路)→ embedding → MLP(Bengio 2003),附训练实战坑与自测题
 - `transformer-code-reading-guide.md` — Transformer 直觉重建 + nanoGPT 带行号精读指南 + 伪代码练习
 - `nanogpt-model.py` — 精读用源码,取自 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)(MIT License),仅作阅读参考
+- `deep-dive-llm-pipeline-notes.md` — 预训练 → SFT → RLHF/RLVR 全流程笔记,重点 tokenizer / SFT 数据构造 / RLVR 演进
