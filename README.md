@@ -47,3 +47,4 @@
 ### 第 2 周 · Prompt 与 API 基本功
 
 - `prompt-guidelines.md` — OpenAI 六策略 vs Anthropic 九章对照,共识与差异,经典指南到新模型指南的演进,10 条准则起步版 + 6 个验证实验
+- `agent-collaboration-guidelines.md` — 我的 Agent 协作准则 v2:14 条,分信息/约束/执行/验收/兜底五层,含一页纸速查版
