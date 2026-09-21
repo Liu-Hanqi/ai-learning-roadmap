@@ -29,8 +29,8 @@
 ### 第 2 周:Prompt 与 API 基本功
 
 - [x] (2h) 通读 OpenAI 与 Anthropic 官方 Prompt 指南,整理 10 条准则——见 `prompt-guidelines.md`(起步版,待第 5 节实验验证后固化为自己的版本)
-- [ ] (2h) 练:流式输出、温度与 top_p 对输出的影响(写脚本对比)
-- [ ] (2h) 练:结构化输出(JSON mode)与 function calling
+- [ ] (2h) 输出通道工程:流式接收(SSE,含中断与超时处理)+ 结构化输出 + function calling——网关透传的基础
+- [ ] (2h) 三轴控制实验:采样随机性 × 推理强度 × 输出约束,产出项目参数策略表——见 `sampling-axes-experiment.md`(温度/top_p 是采样控制的实现,推理强度是另一根正交的轴,不替代它)
 
 ### 第 3 周:推理侧概念(为 infra 线埋种子)
 

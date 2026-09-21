@@ -48,3 +48,4 @@
 
 - `prompt-guidelines.md` — OpenAI 六策略 vs Anthropic 九章对照,共识与差异,经典指南到新模型指南的演进,10 条准则起步版 + 6 个验证实验
 - `agent-collaboration-guidelines.md` — 我的 Agent 协作准则 v3(十则):信息/约束/执行/验收/兜底/红线,含一页纸速查版
+- `sampling-axes-experiment.md` — 三轴控制实验:采样随机性 × 推理强度 × 输出约束(分阶段正交设计,约 135 次调用产出参数策略表)
