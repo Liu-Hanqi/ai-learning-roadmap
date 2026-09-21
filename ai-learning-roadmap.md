@@ -28,7 +28,7 @@
 
 ### 第 2 周:Prompt 与 API 基本功
 
-- [ ] (2h) 通读 OpenAI 与 Anthropic 官方 Prompt 指南,整理 10 条你自己的准则
+- [x] (2h) 通读 OpenAI 与 Anthropic 官方 Prompt 指南,整理 10 条准则——见 `prompt-guidelines.md`(起步版,待第 5 节实验验证后固化为自己的版本)
 - [ ] (2h) 练:流式输出、温度与 top_p 对输出的影响(写脚本对比)
 - [ ] (2h) 练:结构化输出(JSON mode)与 function calling
 
