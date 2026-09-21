@@ -42,3 +42,4 @@
 ## 规划与规格
 
 - `agent-production-spec.md` — 生产级 Agent 项目规格:Demo 到生产的八个断层、可验收指标、必备基础设施、交付物清单
+- `ticket-agent-project-spec.md` — 最终项目规格:工单自动分类 + 草稿回复(工作流、评测、SLO、26 周映射)
